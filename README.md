@@ -119,12 +119,14 @@ while (1)
 ```
 
 ## Output screen shots on serial monitor   :
-
+### SENSOR OUTSIDE WATER:
  ![outside water](https://github.com/KeerthikaNagarajan/EXPERIMENT--05-SOIL-MOISTURE-SENSOR-INTERFACE-TO-IOT-DEVELOPMENT-BOARD-/assets/93427089/1a11b386-5523-40fc-bfd4-06026525c895)
 
+### SENSOR INSIDE WATER:
  ![inside water](https://github.com/KeerthikaNagarajan/EXPERIMENT--05-SOIL-MOISTURE-SENSOR-INTERFACE-TO-IOT-DEVELOPMENT-BOARD-/assets/93427089/25cec74b-caec-42fb-9abe-860a1bee10f8)
 
-  ![data](https://github.com/KeerthikaNagarajan/EXPERIMENT--05-SOIL-MOISTURE-SENSOR-INTERFACE-TO-IOT-DEVELOPMENT-BOARD-/assets/93427089/fdadab8e-3ccd-4edb-b581-d4a184256356)
+### READINGS:
+![pic](https://github.com/KeerthikaNagarajan/EXPERIMENT--05-SOIL-MOISTURE-SENSOR-INTERFACE-TO-IOT-DEVELOPMENT-BOARD-/assets/93427089/ee29b642-15a3-4016-924a-880472758fc8)
 
 
 ## Result :
